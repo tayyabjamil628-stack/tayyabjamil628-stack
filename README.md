@@ -1,6 +1,3 @@
-<!--
-**tayyabjamil628-stack/tayyabjamil628-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Malik Tayyab Jamil
 
 ### Software Engineering Student | Backend & Cloud Computing | Systems & Automation
