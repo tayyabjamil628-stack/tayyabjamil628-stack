@@ -1,3 +1,4 @@
+[![Live Demo](https://img.shields.io/badge/🚀_View_Live_App-Click_Here-0969da?style=for-the-badge)](https://gitbeacon-production.up.railway.app)
 # Malik Tayyab Jamil
 
 ### Software Engineering Student | Backend & Cloud Computing | Systems & Automation
