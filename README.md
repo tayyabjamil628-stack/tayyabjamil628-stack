@@ -62,30 +62,6 @@ Currently exploring deeper areas of **cloud computing, High Performance Computin
 
 ## Featured Projects
 
-### ☁️ DecodeLabs Cloud Deployment
-
-**Multi-target cloud deployment with automated CI/CD**
-
-A React + TypeScript application deployed to multiple infrastructure targets through GitHub Actions.
-
-**Engineering focus:**
-
-- GitHub Actions CI/CD
-- AWS S3
-- AWS CloudFront
-- AWS EC2
-- AWS Systems Manager
-- GitHub OIDC authentication
-- Nginx
-- Automated deployments
-
-The project demonstrates keyless AWS authentication through GitHub OIDC and agentless EC2 deployment through AWS Systems Manager.
-
-**Tech:** `React` `TypeScript` `AWS` `S3` `CloudFront` `EC2` `GitHub Actions` `Nginx`
-
-[View Repository](https://github.com/tayyabjamil628-stack/decodelabs-cloud-deployment)
-
----
 
 ### 🏢 Intern Management System
 
@@ -127,15 +103,6 @@ A responsive personal portfolio designed to present my projects, technical skill
 
 ---
 
-### 🔎 GitBeacon
-
-A project focused on GitHub-oriented developer tooling and repository analysis.
-
-**Tech:** `TypeScript`
-
-[View Repository](https://github.com/tayyabjamil628-stack/GitBeacon)
-
----
 
 ## What I'm Currently Learning
 
